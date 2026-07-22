@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "syspulse"
+version = "0.1.0"
+description = "Fast, stylish Linux system and network info extractor"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.31.0",
+    "rich>=13.7.0"
+]
+
+[project.scripts]
+syspulse = "syspulse.cli:main"

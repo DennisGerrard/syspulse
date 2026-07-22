@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+syspulse/__init__.py
+syspulse/cli.py
+syspulse/collector.py
+syspulse/formatter.py
+syspulse.egg-info/PKG-INFO
+syspulse.egg-info/SOURCES.txt
+syspulse.egg-info/dependency_links.txt
+syspulse.egg-info/entry_points.txt
+syspulse.egg-info/requires.txt
+syspulse.egg-info/top_level.txt

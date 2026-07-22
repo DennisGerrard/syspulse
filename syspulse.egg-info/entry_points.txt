@@ -1,0 +1,2 @@
+[console_scripts]
+syspulse = syspulse.cli:main
